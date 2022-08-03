@@ -1,0 +1,57 @@
+.left-main{
+  background-color: rgb(174, 1, 1);
+  flex:3;
+}
+
+.middle-main{
+  background-color: white;
+  flex:6;
+  display:flex;
+}
+
+.right-main{
+  background-color: rgb(210, 209, 209);
+  flex:2;
+}
+
+.main{
+  display: flex;
+  height:450px;
+}
+
+.rh{
+  height:110px;
+  align-items: center;
+  justify-content: center;
+  padding-left: 200px;
+  padding-top: 150px;
+}
+
+.present{
+  font-size:50px;
+  font-weight:900;
+  color:brown;
+  align-items: center;
+  justify-content: center;
+  padding-top: 170px;
+}
+
+.bottom{
+  font-size: 12px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.bottom-line{
+  background-color: rgb(175, 172, 172);
+  height:1px;
+  width: 300px;
+  margin-left: 560px;
+}
+
+.bottom-word{
+  font-size: 12px;
+  text-align: center;
+  padding-top: 10px;
+}
